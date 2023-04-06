@@ -1,5 +1,7 @@
 <template>
-    <header>
-        <NavbarComponent />
-    </header>
+    <NavbarComponent />
+    <careerHeaderComponent />
+    <careerDevelopment />
+    <HomeYouGotComponent />
+    <FooterComponent />
 </template>

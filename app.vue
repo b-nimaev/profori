@@ -9,8 +9,8 @@
 
 <style lang="scss">
 body {
-  padding: 15px;
-  background-image: linear-gradient(272deg, #ffcab2, #c2c4ff);
+  min-width: 560px;
+  // padding: 15px;
   font-family: 'Raleway', sans-serif;
 }
 

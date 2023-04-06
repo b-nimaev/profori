@@ -1,5 +1,4 @@
 <template>
-    <header>
-        <NavbarComponent />
-    </header>
+    <NavbarComponent />
+    <FooterComponent />
 </template>

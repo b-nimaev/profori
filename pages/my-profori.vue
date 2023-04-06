@@ -1,5 +1,3 @@
 <template>
-    <header>
-        <NavbarComponent />
-    </header>
+    <NavbarComponent themeClass="light" />
 </template>
